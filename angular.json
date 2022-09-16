@@ -25,10 +25,10 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/merakiarchdesigns.io/assets/",
-              "src/merakiarchdesigns.io/assets//images/demo",
-              "src/merakiarchdesigns.io/assets//images/backgrounds",
-              "src/merakiarchdesigns.io/assets//images/gallery"
+              "src/merakiarchdesigns.io./assets/",
+              "src/merakiarchdesigns.io./assets//images/demo",
+              "src/merakiarchdesigns.io./assets//images/backgrounds",
+              "src/merakiarchdesigns.io./assets//images/gallery"
             ],
             "styles": [
               "src/styles.css",
@@ -101,7 +101,7 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/merakiarchdesigns.io/assets/"
+              "src/merakiarchdesigns.io./assets/"
             ],
             "styles": [
               "src/styles.css"

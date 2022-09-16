@@ -7,6 +7,9 @@ import { ProjectComponent } from './project/project.component';
 
 const routes: Routes = [
   {
+    path: 'merakiarchdesigns.io', component: HomeComponent
+  },
+  {
     path: '', component: HomeComponent
   },
   {

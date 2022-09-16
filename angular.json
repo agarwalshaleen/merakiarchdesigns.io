@@ -25,10 +25,10 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/merakiarchdesigns.io./assets/",
-              "src/merakiarchdesigns.io./assets//images/demo",
-              "src/merakiarchdesigns.io./assets//images/backgrounds",
-              "src/merakiarchdesigns.io./assets//images/gallery"
+              "src/assets/",
+              "src/assets/images/demo",
+              "src/assets/images/backgrounds",
+              "src/assets//images/gallery"
             ],
             "styles": [
               "src/styles.css",

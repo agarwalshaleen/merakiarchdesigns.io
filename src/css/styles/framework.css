@@ -120,6 +120,10 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
     margin-bottom:120px;
 }
 
+/* @media screen and (max-width:978px){
+	.one_quarter{width:50%;}
+} */
+
 /* Spacing
 --------------------------------------------------------------------------------------------------------------- */
 .btmspace-10{margin-bottom:10px;}

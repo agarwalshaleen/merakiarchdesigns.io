@@ -434,9 +434,7 @@ table a, #comments a{background-color:inherit;}
 	#header{padding:30px 15px;}
 	#header #logo{margin-top:3px;}
 
-	#mainav{}
-	#mainav ul{display:none;}
-	#mainav form{display:block;}
+
 
 	#breadcrumb{}
 
@@ -462,6 +460,9 @@ table a, #comments a{background-color:inherit;}
 	#header{padding:30px 0; text-align:center;}
 	#header #logo{margin:0 0 20px 0;}
 
+	#mainav{ margin: 0 0 20px 0; float: none; }
+
+	
 	#pageintro article, #pageintro p{max-width:none; margin:auto;}
 	#pageintro .heading{font-size:2rem;}
 

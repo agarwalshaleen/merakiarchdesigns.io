@@ -120,9 +120,9 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
     margin-bottom:120px;
 }
 
-/* @media screen and (max-width:978px){
+@media screen and (max-width:978px){
 	.one_quarter{width:50%;}
-} */
+}
 
 /* Spacing
 --------------------------------------------------------------------------------------------------------------- */

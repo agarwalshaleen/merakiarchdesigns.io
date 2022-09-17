@@ -8284,5 +8284,18 @@
     padding: 10px 0;
     display: none;
     font-size: 16px;
-    font-weight: 500; }
+    font-weight: 500; 
+  }
+
+   .details-icon {
+    color: #DC8E47;
+   }
   
+    .details-contact {
+      color: #000;
+      font-family: auto;
+    }
+
+    .details-contact-heading {
+      color: #6e6363;
+    }

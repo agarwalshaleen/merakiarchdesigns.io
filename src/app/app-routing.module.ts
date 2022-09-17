@@ -10,6 +10,18 @@ const routes: Routes = [
     path: 'merakiarchdesigns.io', component: HomeComponent
   },
   {
+    path: 'merakiarchdesigns.io/home', component: HomeComponent
+  },
+  {
+    path: 'merakiarchdesigns.io/projects', component: ProjectComponent
+  },
+  {
+    path: 'merakiarchdesigns.io/aboutus', component: AboutComponent
+  },
+  {
+    path: 'merakiarchdesigns.io/contact', component: ContactComponent
+  },
+  {
     path: '', component: HomeComponent
   },
   {

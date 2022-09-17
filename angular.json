@@ -101,7 +101,7 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/merakiarchdesigns.io./assets/"
+              "src/assets/"
             ],
             "styles": [
               "src/styles.css"

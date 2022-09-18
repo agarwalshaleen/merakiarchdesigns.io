@@ -12,6 +12,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 import { WhatwedoComponent } from './whatwedo/whatwedo.component';
 import { WhatwedochildComponent } from './whatwedochild/whatwedochild.component';
+import { FeedbackComponent } from './feedback/feedback.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { WhatwedochildComponent } from './whatwedochild/whatwedochild.component'
     HeaderComponent,
     FooterComponent,
     WhatwedoComponent,
-    WhatwedochildComponent
+    WhatwedochildComponent,
+    FeedbackComponent
   ],
   imports: [
     BrowserModule,

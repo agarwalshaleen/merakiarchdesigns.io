@@ -4,6 +4,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { ProjectComponent } from './project/project.component';
+import { WhatwedoComponent } from './whatwedo/whatwedo.component';
 
 const routes: Routes = [
   {
@@ -22,6 +23,9 @@ const routes: Routes = [
     path: 'merakiarchdesigns.io/contact', component: ContactComponent
   },
   {
+    path: 'merakiarchdesigns.io/whatwedo', component: WhatwedoComponent
+  },
+  {
     path: '', component: HomeComponent
   },
   {
@@ -35,6 +39,9 @@ const routes: Routes = [
   },
   {
     path: 'contact', component: ContactComponent
+  },
+  {
+    path: 'whatwedo', component: WhatwedoComponent
   }
 
 ];

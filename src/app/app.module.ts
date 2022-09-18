@@ -10,6 +10,8 @@ import { ProjectComponent } from './project/project.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
+import { WhatwedoComponent } from './whatwedo/whatwedo.component';
+import { WhatwedochildComponent } from './whatwedochild/whatwedochild.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +21,9 @@ import { HashLocationStrategy, LocationStrategy } from '@angular/common';
     ContactComponent,
     ProjectComponent,
     HeaderComponent,
-    FooterComponent
+    FooterComponent,
+    WhatwedoComponent,
+    WhatwedochildComponent
   ],
   imports: [
     BrowserModule,

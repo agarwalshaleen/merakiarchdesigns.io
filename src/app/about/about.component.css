@@ -14,3 +14,11 @@
 .ria {
     width: 70%;
 }
+
+@media screen and (max-width:978px){
+	
+
+    footer {
+        margin-top: 20px;
+    }
+}

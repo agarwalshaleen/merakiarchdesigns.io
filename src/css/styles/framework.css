@@ -121,7 +121,14 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 }
 
 @media screen and (max-width:978px){
-	.one_quarter{width:50%;}
+	.one_quarter{
+        width:100%;
+        margin: 0 0 0 0%;
+    }
+
+    .heading {
+        margin-top: 20px;
+    }
 }
 
 /* Spacing
